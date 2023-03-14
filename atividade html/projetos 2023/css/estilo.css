@@ -1,0 +1,17 @@
+body{
+	background-color:#F0FFFF;
+	text-align:center;
+	margin:10px;
+	padding:10px;
+	font-size:30px;
+	font-family:Bradley Hand;
+}
+h1{
+	font-size:100px;
+	color:#87CEFA;
+	font-family:Brush Script MT;
+	text-decoration:underline;
+}	
+div{
+	text-align:center;
+}
